@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+nbformat>=4.2.0
+plotly
+
+-e .
